@@ -1,5 +1,7 @@
 # QuickNotes – README
 
+[EXAMPLE] [DO-NOT-EXPECT-APP-TO-WORK] [IT-DOES-NOTHING] [PLACEHOLDER-CODE]
+
 ## Overview
 QuickNotes is a small web app for creating, editing and sharing short notes.  
 It is designed to load fast, work across devices and keep personal notes private unless shared.
