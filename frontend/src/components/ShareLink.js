@@ -1,0 +1,1 @@
+export default function ShareLink(){return <div></div>}
